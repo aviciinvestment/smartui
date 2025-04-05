@@ -14,7 +14,7 @@ header{
     
 }
 .logo img{
-    transform: scale(60%);
+    transform: scale(40%);
    
 }
 .mode{
@@ -25,6 +25,8 @@ header{
     padding: 2px;
     border-radius: 5px;
     margin: 8px;
+    height: 30px;
+    width: 30px;
 }
 .mode img{
     transform: scale(60%);
