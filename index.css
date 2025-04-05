@@ -32,6 +32,7 @@ header{
 .div11{
     font-family: NotoSans-Bold;
     font-size: 10px;
+    height: 70px;
 }
 .div11 p{
     color: #9bb0ee;
@@ -130,15 +131,18 @@ header{
     border: 0.5px solid hsl(240, 73%, 83%);
     border-radius: 5px;
     padding: 3px;
+    font-family: NotoSans-Bold;
+    font-size: 10px;
 
 }
 img{
     transform: scale(70%);
+    height: 70px;
 }
 
 @media (max-width:500px) {
     .section2 .div{
-        background-color:hsl(219, 22%, 20%);
+        background-color:hsl(225, 23%, 24%) ;
         border-radius: 10px;
         width: 100%;
         padding: 5px;
@@ -152,7 +156,7 @@ img{
         margin: auto;
         text-align: center;
         font-size: 13px;
-        width: 50%;
+        width: 70%;
         margin-bottom: 30px;
         column-gap: 30px;
     
